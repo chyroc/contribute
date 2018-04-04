@@ -1,21 +1,22 @@
 # contribute
 list: 开源贡献 / 个人项目
 
-## 开源项目贡献统计(18 merged)
+## 开源项目贡献统计(19 merged)
 
-* [**schollz/progressbar**(★253)](https://github.com/schollz/progressbar)
+* [**schollz/progressbar**(★254)](https://github.com/schollz/progressbar)
   * [fix remove Duration.Round to compatible with version less than go1.9](https://github.com/schollz/progressbar/pull/3)
 * [**mattn/anko**(★556)](https://github.com/mattn/anko)
+  * [Fix/error message lower case string](https://github.com/mattn/anko/pull/191)
   * [add multiple-case](https://github.com/mattn/anko/pull/190)
   * [Add/item in list syntax](https://github.com/mattn/anko/pull/185)
   * [add appendNumberAndPoint](https://github.com/mattn/anko/pull/165)
   * [add support-map-delete](https://github.com/mattn/anko/pull/130)
   * [fix comment](https://github.com/mattn/anko/pull/127)
-* [**marcusolsson/tui-go**(★1266)](https://github.com/marcusolsson/tui-go)
+* [**marcusolsson/tui-go**(★1269)](https://github.com/marcusolsson/tui-go)
   * [fix box insert out of range](https://github.com/marcusolsson/tui-go/pull/62)
 * [**littlecodersh/trip**(★176)](https://github.com/littlecodersh/trip)
   * [Fix/lack import](https://github.com/littlecodersh/trip/pull/2)
-* [**kennethreitz/requests-html**(★7173)](https://github.com/kennethreitz/requests-html)
+* [**kennethreitz/requests-html**(★7174)](https://github.com/kennethreitz/requests-html)
   * [clean and format code](https://github.com/kennethreitz/requests-html/pull/56)
   * [add gitignore and remove .DS_Store](https://github.com/kennethreitz/requests-html/pull/43)
   * [fix https://github.com/kennethreitz/requests-html/issues/10 : links contain javascript:;](https://github.com/kennethreitz/requests-html/pull/11)
