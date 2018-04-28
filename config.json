@@ -12,8 +12,13 @@
     },
     {
       "name": "gor",
-      "introduction": "Fast, minimalist web framework for Golang",
+      "introduction": "用golang实现的简单web路由框架",
       "url": "https://github.com/Chyroc/gor"
+    },
+    {
+      "name": "phpmyadmin-cli",
+      "introduction": "access phpmyadmin from cli / 通过shell操作phpmyadmin",
+      "url": "https://github.com/Chyroc/phpmyadmin-cli"
     },
     {
       "name": "github-contribution",
@@ -31,9 +36,9 @@
       "url": "https://github.com/Chyroc/generate_blog_by_issues"
     },
     {
-      "name": "phpmyadmin-cli",
-      "introduction": "access phpmyadmin from cli / 通过shell操作phpmyadmin",
-      "url": "https://github.com/Chyroc/phpmyadmin-cli"
+      "name": "delete-duplicate-file",
+      "introduction": "学习electron+vue的时候做的一个删除重复文件的工具",
+      "url": "https://github.com/Chyroc/delete-duplicate-file"
     }
   ]
 }

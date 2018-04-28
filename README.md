@@ -21,7 +21,7 @@ list: 开源贡献 / 个人项目
   * [fix box insert out of range](https://github.com/marcusolsson/tui-go/pull/62)
 * [**littlecodersh/trip**(★181)](https://github.com/littlecodersh/trip)
   * [Fix/lack import](https://github.com/littlecodersh/trip/pull/2)
-* [**kennethreitz/requests-html**(★7448)](https://github.com/kennethreitz/requests-html)
+* [**kennethreitz/requests-html**(★7450)](https://github.com/kennethreitz/requests-html)
   * [clean and format code](https://github.com/kennethreitz/requests-html/pull/56)
   * [add gitignore and remove .DS_Store](https://github.com/kennethreitz/requests-html/pull/43)
   * [fix https://github.com/kennethreitz/requests-html/issues/10 : links contain javascript:;](https://github.com/kennethreitz/requests-html/pull/11)
@@ -32,7 +32,7 @@ list: 开源贡献 / 个人项目
 * [**felixangell/phi**(★178)](https://github.com/felixangell/phi)
   * [add cross compile](https://github.com/felixangell/phi/pull/42)
   * [remove DS_Store](https://github.com/felixangell/phi/pull/41)
-* [**boltdb/bolt**(★8438)](https://github.com/boltdb/bolt)
+* [**boltdb/bolt**(★8440)](https://github.com/boltdb/bolt)
   * [add tx-copy-deprecated](https://github.com/boltdb/bolt/pull/748)
 * [**airyland/vux**(★12251)](https://github.com/airyland/vux)
   * [fix docs use i18n link err](https://github.com/airyland/vux/pull/2130)
@@ -45,8 +45,9 @@ list: 开源贡献 / 个人项目
 ## 个人项目
 
 * [WechatSogou](https://github.com/Chyroc/WechatSogou): 基于搜狗微信搜索的微信公众号爬虫接口
-* [gor](https://github.com/Chyroc/gor): Fast, minimalist web framework for Golang
+* [gor](https://github.com/Chyroc/gor): 用golang实现的简单web路由框架
+* [phpmyadmin-cli](https://github.com/Chyroc/phpmyadmin-cli): access phpmyadmin from cli / 通过shell操作phpmyadmin
 * [github-contribution](https://github.com/Chyroc/github-contribution): list self github contribution / 开源项目贡献统计
 * [pics-to-gif](https://github.com/Chyroc/pics-to-gif): pics to gif / 照片转gif动图
 * [generate_blog_by_issues](https://github.com/Chyroc/generate_blog_by_issues): md文件/github issue转静态博客
-* [phpmyadmin-cli](https://github.com/Chyroc/phpmyadmin-cli): access phpmyadmin from cli / 通过shell操作phpmyadmin
+* [delete-duplicate-file](https://github.com/Chyroc/delete-duplicate-file): 学习electron+vue的时候做的一个删除重复文件的工具
