@@ -39,6 +39,11 @@
       "name": "delete-duplicate-file",
       "introduction": "学习electron+vue的时候做的一个删除重复文件的工具",
       "url": "https://github.com/Chyroc/delete-duplicate-file"
+    },
+    {
+      "name": "MyNote-MINA",
+      "introduction": "学习小程序的时候写的，一个类似于记事本的东西",
+      "url": "https://github.com/Chyroc/MyNote-MINA"
     }
   ]
 }
