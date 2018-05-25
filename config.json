@@ -11,9 +11,9 @@
       "url": "https://github.com/Chyroc/WechatSogou"
     },
     {
-      "name": "gor",
-      "introduction": "用golang实现的简单web路由框架",
-      "url": "https://github.com/Chyroc/gor"
+      "name": "leetcode-badge",
+      "introduction": "展示在leetcode上做题的进度的徽标 / Show the progress badge on the leetcode",
+      "url": "https://github.com/Chyroc/leetcode-badge"
     },
     {
       "name": "phpmyadmin-cli",
@@ -24,6 +24,11 @@
       "name": "github-contribution",
       "introduction": "list self github contribution / 开源项目贡献统计",
       "url": "https://github.com/Chyroc/github-contribution"
+    },
+    {
+      "name": "gor",
+      "introduction": "用golang实现的简单web路由框架",
+      "url": "https://github.com/Chyroc/gor"
     },
     {
       "name": "pics-to-gif",
