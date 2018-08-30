@@ -2,7 +2,7 @@
 list: 开源贡献 / 个人项目
 > 使用工具github-contribution制作(https://github.com/Chyroc/github-contribution)
 
-## 开源项目贡献统计(71 merged)
+## 开源项目贡献统计(51 merged)
 
 * [**schollz/progressbar**(★319)](https://github.com/schollz/progressbar)
   * [fix remove Duration.Round to compatible with version less than go1.9](https://github.com/schollz/progressbar/pull/3)
@@ -58,7 +58,6 @@ list: 开源贡献 / 个人项目
   * [fix https://github.com/goccmack/gocc/issues/23](https://github.com/goccmack/gocc/pull/80)
 * [**felixangell/phi**(★269)](https://github.com/felixangell/phi)
   * [add cross compile](https://github.com/felixangell/phi/pull/42)
-  * [remove DS_Store](https://github.com/felixangell/phi/pull/41)
 * [**c-bata/go-prompt**(★1710)](https://github.com/c-bata/go-prompt)
   * [Add ascii code bind option and find current word end](https://github.com/c-bata/go-prompt/pull/65)
 * [**boltdb/bolt**(★8889)](https://github.com/boltdb/bolt)

@@ -9,7 +9,8 @@
       "format code",
       "fix comment",
       "optimization test",
-      "add testdata"
+      "add testdata",
+      "ds_store"
     ]
   },
   "side_project": [
