@@ -1,7 +1,15 @@
 {
   "github_project": {
     "ignore": [
-      "h3z/chat"
+      "h3z",
+      "doc",
+      "typo",
+      "readme",
+      "gitignore",
+      "format code",
+      "fix comment",
+      "optimization test",
+      "add testdata"
     ]
   },
   "side_project": [
@@ -9,6 +17,11 @@
       "name": "WechatSogou",
       "introduction": "基于搜狗微信搜索的微信公众号爬虫接口",
       "url": "https://github.com/Chyroc/WechatSogou"
+    },
+    {
+      "name": "redis",
+      "introduction": "go语言redis客户端",
+      "url": "https://github.com/Chyroc/redis"
     },
     {
       "name": "leetcode-badge",
