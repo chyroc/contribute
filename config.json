@@ -21,6 +21,11 @@
       "url": "https://github.com/Chyroc/WechatSogou"
     },
     {
+      "name": "YouthVolunteers-mina",
+      "introduction": "南航青协小程序",
+      "url": "https://github.com/YouthVolunteers/mina"
+    },
+    {
       "name": "redis",
       "introduction": "go语言redis客户端",
       "url": "https://github.com/Chyroc/redis"
@@ -59,11 +64,6 @@
       "name": "delete-duplicate-file",
       "introduction": "学习electron+vue的时候做的一个删除重复文件的工具",
       "url": "https://github.com/Chyroc/delete-duplicate-file"
-    },
-    {
-      "name": "MyNote-MINA",
-      "introduction": "学习小程序的时候写的，一个类似于记事本的东西",
-      "url": "https://github.com/Chyroc/MyNote-MINA"
     }
   ]
 }

@@ -4,7 +4,7 @@ list: 开源贡献 / 个人项目
 
 ## 开源项目贡献统计(54 merged)
 
-* [**silenceper/wechat**(★797)](https://github.com/silenceper/wechat)
+* [**silenceper/wechat**(★799)](https://github.com/silenceper/wechat)
   * [add: user update-remark api](https://github.com/silenceper/wechat/pull/85)
   * [skip-valid-when-debug-mode(fix #82)](https://github.com/silenceper/wechat/pull/83)
 * [**schollz/progressbar**(★337)](https://github.com/schollz/progressbar)
@@ -23,11 +23,11 @@ list: 开源贡献 / 个人项目
 * [**marcusolsson/tui-go**(★1441)](https://github.com/marcusolsson/tui-go)
   * [add Repaint() to UI interface](https://github.com/marcusolsson/tui-go/pull/135)
   * [fix box insert out of range](https://github.com/marcusolsson/tui-go/pull/62)
-* [**littlecodersh/trip**(★192)](https://github.com/littlecodersh/trip)
+* [**littlecodersh/trip**(★193)](https://github.com/littlecodersh/trip)
   * [Fix/lack import](https://github.com/littlecodersh/trip/pull/2)
-* [**kennethreitz/requests-html**(★8423)](https://github.com/kennethreitz/requests-html)
+* [**kennethreitz/requests-html**(★8437)](https://github.com/kennethreitz/requests-html)
   * [fix https://github.com/kennethreitz/requests-html/issues/10 : links contain javascript:;](https://github.com/kennethreitz/requests-html/pull/11)
-* [**kasvith/kache**(★120)](https://github.com/kasvith/kache)
+* [**kasvith/kache**(★121)](https://github.com/kasvith/kache)
   * [add error field to resp3](https://github.com/kasvith/kache/pull/85)
   * [add resp3 protocol part 6(remove old protocol code)](https://github.com/kasvith/kache/pull/84)
   * [add resp3 protocol part 5(replace to resp3)](https://github.com/kasvith/kache/pull/83)
@@ -55,27 +55,28 @@ list: 开源贡献 / 个人项目
   * [fix command to lower](https://github.com/kasvith/kache/pull/40)
   * [fix-getCommand-error-resp](https://github.com/kasvith/kache/pull/36)
   * [split standard and third-party packages imports(fix #30)](https://github.com/kasvith/kache/pull/32)
-* [**golang/protobuf**(★3474)](https://github.com/golang/protobuf)
+* [**golang/protobuf**(★3479)](https://github.com/golang/protobuf)
   * [protoc-gen-go: remove deprecated function in grpc](https://github.com/golang/protobuf/pull/592)
-* [**goccmack/gocc**(★193)](https://github.com/goccmack/gocc)
+* [**goccmack/gocc**(★195)](https://github.com/goccmack/gocc)
   * [fix https://github.com/goccmack/gocc/issues/23](https://github.com/goccmack/gocc/pull/80)
-* [**felixangell/phi**(★268)](https://github.com/felixangell/phi)
+* [**felixangell/phi**(★269)](https://github.com/felixangell/phi)
   * [add cross compile](https://github.com/felixangell/phi/pull/42)
-* [**c-bata/go-prompt**(★1763)](https://github.com/c-bata/go-prompt)
+* [**c-bata/go-prompt**(★1767)](https://github.com/c-bata/go-prompt)
   * [Add ascii code bind option and find current word end](https://github.com/c-bata/go-prompt/pull/65)
-* [**boltdb/bolt**(★8966)](https://github.com/boltdb/bolt)
+* [**boltdb/bolt**(★8976)](https://github.com/boltdb/bolt)
   * [add tx-copy-deprecated](https://github.com/boltdb/bolt/pull/748)
 * [**Leviathan1995/MyContribution**(★12)](https://github.com/Leviathan1995/MyContribution)
   * [fix sort before group-by](https://github.com/Leviathan1995/MyContribution/pull/11)
   * [group by repo name](https://github.com/Leviathan1995/MyContribution/pull/10)
   * [fix pr-link](https://github.com/Leviathan1995/MyContribution/pull/9)
   * [add use token to fetch data](https://github.com/Leviathan1995/MyContribution/pull/6)
-* [**DefinitelyTyped/DefinitelyTyped**(★17580)](https://github.com/DefinitelyTyped/DefinitelyTyped)
+* [**DefinitelyTyped/DefinitelyTyped**(★17611)](https://github.com/DefinitelyTyped/DefinitelyTyped)
   * [[weixin-app] add cloud](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/29121)
 
 ## 个人项目
 
 * [WechatSogou](https://github.com/Chyroc/WechatSogou): 基于搜狗微信搜索的微信公众号爬虫接口
+* [YouthVolunteers-mina](https://github.com/YouthVolunteers/mina): 南航青协小程序
 * [redis](https://github.com/Chyroc/redis): go语言redis客户端
 * [leetcode-badge](https://github.com/Chyroc/leetcode-badge): 展示在leetcode上做题的进度的徽标 / Show the progress badge on the leetcode
 * [phpmyadmin-cli](https://github.com/Chyroc/phpmyadmin-cli): access phpmyadmin from cli / 通过shell操作phpmyadmin
@@ -84,4 +85,3 @@ list: 开源贡献 / 个人项目
 * [pics-to-gif](https://github.com/Chyroc/pics-to-gif): pics to gif / 照片转gif动图
 * [generate_blog_by_issues](https://github.com/Chyroc/generate_blog_by_issues): md文件/github issue转静态博客
 * [delete-duplicate-file](https://github.com/Chyroc/delete-duplicate-file): 学习electron+vue的时候做的一个删除重复文件的工具
-* [MyNote-MINA](https://github.com/Chyroc/MyNote-MINA): 学习小程序的时候写的，一个类似于记事本的东西
